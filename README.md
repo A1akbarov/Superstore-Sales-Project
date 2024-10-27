@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard - Power BI Project
+# Superstore Sales Analysis - Power BI Project
 
 This repository contains a Power BI project showcasing sales, profit, and other key metrics for the Superstore dataset. This dashboard provides insights into different aspects of the sales data, including yearly profit trends, sales by category, geographical performance, and shipping cost analysis.
 
